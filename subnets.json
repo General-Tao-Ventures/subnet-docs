@@ -3,7 +3,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "NA",
         "letter": "",
-        "name": "",
+        "name": "Root",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/0/v1.png",
@@ -18,7 +18,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "alpha",
         "letter": "",
-        "name": "",
+        "name": "Apex",
         "github": [
             "https://github.com/macrocosm-os/apex"
         ],
@@ -39,7 +39,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "DSperse",
         "github": [
             "https://github.com/inference-labs-inc/subnet-2"
         ],
@@ -60,7 +60,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "gamma",
         "letter": "",
-        "name": "",
+        "name": "Templar",
         "github": [
             "https://github.com/tplr-ai/templar"
         ],
@@ -80,7 +80,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "delta",
         "letter": "",
-        "name": "",
+        "name": "Targon",
         "github": [
             "https://github.com/manifold-inc/targon"
         ],
@@ -102,7 +102,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Hone",
         "github": [
             "https://github.com/manifold-inc/hone"
         ],
@@ -122,7 +122,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Numinous",
         "github": [
             "https://github.com/numinouslabs/numinous"
         ],
@@ -143,7 +143,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Allways",
         "github": [
             "https://github.com/entrius/allways"
         ],
@@ -164,7 +164,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Vanta Network",
         "github": [
             "https://github.com/taoshidev/vanta-network"
         ],
@@ -184,7 +184,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "pre_training_llms",
         "letter": "",
-        "name": "",
+        "name": "IOTA",
         "github": [
             "https://github.com/macrocosm-os/IOTA"
         ],
@@ -206,7 +206,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Swap",
         "github": [
             "https://github.com/Swap-Subnet/swap-subnet"
         ],
@@ -227,7 +227,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "lambda",
         "letter": "",
-        "name": "",
+        "name": "TrajectoryRL",
         "github": [
             "https://github.com/trajectoryRL/trajectoryRL"
         ],
@@ -248,7 +248,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "horde",
         "letter": "",
-        "name": "",
+        "name": "Compute Horde",
         "github": [
             "https://github.com/backend-developers-ltd/ComputeHorde"
         ],
@@ -268,7 +268,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "dataverse",
         "letter": "",
-        "name": "",
+        "name": "Data Universe",
         "github": [
             "https://github.com/macrocosm-os/data-universe/"
         ],
@@ -289,7 +289,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "TAO Hash",
         "github": [
             "https://github.com/latent-to/taohash"
         ],
@@ -309,7 +309,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "ORO",
         "github": [
             "https://github.com/ORO-AI/oro"
         ],
@@ -329,7 +329,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "BitAds",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos-test/16/v5.png",
@@ -347,7 +347,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "404—GEN",
         "github": [
             "https://github.com/404-Repo/three-gen-subnet/"
         ],
@@ -368,7 +368,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "cortex_t",
         "letter": "",
-        "name": "",
+        "name": "Zeus",
         "github": [
             "https://github.com/Orpheus-AI/Zeus"
         ],
@@ -388,7 +388,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "blockmachine",
         "github": [
             "https://github.com/taostat/blockmachine"
         ],
@@ -408,7 +408,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "GroundLayer",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos-test/20/v2.png",
@@ -426,7 +426,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "AdTAO",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos-test/21/v2.jpg",
@@ -445,7 +445,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "desearch",
         "letter": "",
-        "name": "",
+        "name": "Desearch",
         "github": [
             "https://github.com/Datura-ai/desearch"
         ],
@@ -466,7 +466,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Trishool",
         "github": [
             "https://github.com/TrishoolAI/trishool-subnet"
         ],
@@ -487,7 +487,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "quasar",
         "letter": "",
-        "name": "",
+        "name": "Quasar",
         "github": [
             "https://github.com/SILX-LABS/QUASAR-SUBNET/"
         ],
@@ -509,7 +509,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "mainframe",
         "letter": "",
-        "name": "",
+        "name": "Mainframe",
         "github": [
             "https://github.com/macrocosm-os/mainframe"
         ],
@@ -530,7 +530,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "kinitro",
         "github": [
             "https://github.com/threetau/kinitro"
         ],
@@ -550,7 +550,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "neural_internet",
         "letter": "",
-        "name": "",
+        "name": "Nodexo",
         "github": [
             "https://github.com/neuralinternet/compute-subnet"
         ],
@@ -570,7 +570,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 28",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -585,7 +585,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "coldint",
         "letter": "",
-        "name": "",
+        "name": "Coldint",
         "github": [
             "https://github.com/coldint/sn29",
             "https://github.com/coldint/coldint_validator"
@@ -607,7 +607,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Pending",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -623,7 +623,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Halftime",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos-test/31/v3.png",
@@ -639,7 +639,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "its_ai",
         "letter": "",
-        "name": "",
+        "name": "It's AI",
         "github": [
             "https://github.com/It-s-AI/llm-detection"
         ],
@@ -660,7 +660,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "readyai",
         "letter": "",
-        "name": "",
+        "name": "ReadyAI",
         "github": [
             "https://github.com/afterpartyai/bittensor-conversation-genome-project"
         ],
@@ -680,7 +680,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "bitmind",
         "letter": "",
-        "name": "",
+        "name": "BitMind",
         "github": [
             "https://github.com/BitMind-AI/bitmind-subnet"
         ],
@@ -702,7 +702,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Cartha (0xMarkets)",
         "github": [
             "https://github.com/General-Tao-Ventures/cartha-cli"
         ],
@@ -723,7 +723,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 36",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -739,7 +739,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Aurelius",
         "github": [
             "https://github.com/Aurelius-Protocol"
         ],
@@ -748,7 +748,7 @@
         "description": "",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "Aurelius transforms alignment into an adversarial, incentive-driven process. Rather than trusting centralized judgment, it rewards independent discovery and reproducible scoring. The result is a continuously evolving dataset of alignment failures \u2014 built in public, governed by logic, and available to all.",
+        "summary": "Aurelius transforms alignment into an adversarial, incentive-driven process. Rather than trusting centralized judgment, it rewards independent discovery and reproducible scoring. The result is a continuously evolving dataset of alignment failures — built in public, governed by logic, and available to all.",
         "websites": [],
         "categories": [
             "Model Development"
@@ -759,7 +759,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "colosseum",
         "letter": "",
-        "name": "",
+        "name": "colosseum",
         "github": [
             "https://github.com/TAO-Colosseum/tao-colosseum-subnet"
         ],
@@ -779,7 +779,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "basilica",
         "github": [
             "https://github.com/tplr-ai/basilica"
         ],
@@ -799,7 +799,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Chunking",
         "github": [
             "https://github.com/VectorChat/chunking_subnet"
         ],
@@ -819,7 +819,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "sportstensor",
         "letter": "",
-        "name": "",
+        "name": "Almanac",
         "github": [
             "https://github.com/sportstensor/sn41"
         ],
@@ -840,7 +840,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 42",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -856,7 +856,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "graphite",
         "letter": "",
-        "name": "",
+        "name": "Graphite",
         "github": [
             "https://github.com/GraphiteAI/Graphite-Subnet"
         ],
@@ -876,7 +876,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "score_vision",
         "letter": "",
-        "name": "",
+        "name": "Score Vision",
         "github": [
             "https://github.com/score-technologies/score-vision/"
         ],
@@ -899,7 +899,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Talisman AI",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos-test/45/v3.jpg",
@@ -918,7 +918,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "RESI",
         "github": [
             "https://github.com/resi-labs-ai/resi",
             "https://github.com/resi-labs-ai/resi-labs-api",
@@ -940,7 +940,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "EvolAI",
         "github": [
             "https://github.com/reboot-org/reboot-subnet"
         ],
@@ -949,7 +949,7 @@
         "description": "",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "Reboot Subnet \u2013 Robotics AI Network is a specialized Bittensor subnet for decentralized, AI-powered robotics services. It enables developers to build, deploy, and validate intelligent robotic systems on a blockchain-backed, incentive-driven network \u2014 combining distributed AI computation with secure consensus.",
+        "summary": "Reboot Subnet – Robotics AI Network is a specialized Bittensor subnet for decentralized, AI-powered robotics services. It enables developers to build, deploy, and validate intelligent robotic systems on a blockchain-backed, incentive-driven network — combining distributed AI computation with secure consensus.",
         "websites": [],
         "categories": [
             "Model Development"
@@ -960,7 +960,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Quantum Compute",
         "github": [
             "https://github.com/qbittensor-labs/quantum"
         ],
@@ -981,7 +981,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Nepher",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -1000,7 +1000,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Synth",
         "github": [
             "https://github.com/mode-network/synth-subnet"
         ],
@@ -1021,7 +1021,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "lium.io",
         "github": [
             "https://github.com/Datura-ai/lium-io"
         ],
@@ -1041,7 +1041,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Tensorplex Dojo",
         "github": [
             "https://github.com/tensorplex-labs/dojo",
             "https://github.com/tensorplex-labs/dojo-synthetic-api",
@@ -1065,7 +1065,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Efficient Frontier",
         "github": [
             "https://github.com/EfficientFrontier-SignalPlus/EfficientFrontier"
         ],
@@ -1085,7 +1085,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "MIID",
         "github": [
             "https://github.com/yanez-compliance/MIID-subnet"
         ],
@@ -1106,7 +1106,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "NIOME",
         "github": [
             "https://github.com/genomesio/subnet-niome"
         ],
@@ -1127,7 +1127,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Gradients",
         "github": [
             "https://github.com/rayonlabs/G.O.D"
         ],
@@ -1149,7 +1149,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Sparket.AI",
         "github": [
             "https://github.com/sparket-ai/sparket-ai"
         ],
@@ -1158,7 +1158,7 @@
         "description": "",
         "bittensor_discord_id": "1310698546852528180",
         "team": "",
-        "summary": "Sparket.ai is a decentralized prediction infrastructure focused on sports and live events, operating as the first Bittensor subnet built on a patented architecture for decentralized betting markets. The platform enables participants to contribute data\u2014such as odds origination and outcome verification\u2014to the markets they wager in, rewarding miners for providing valuable and accurate live-event data. Its patented system covers custom bet creation, dynamic odds, data normalization, and trust-scored outcome verification, supporting a global network of miners and validators. Real-money wagering is planned for future phases, with the current beta supporting data contribution and validation tasks to power the Sparket ecosystem.",
+        "summary": "Sparket.ai is a decentralized prediction infrastructure focused on sports and live events, operating as the first Bittensor subnet built on a patented architecture for decentralized betting markets. The platform enables participants to contribute data—such as odds origination and outcome verification—to the markets they wager in, rewarding miners for providing valuable and accurate live-event data. Its patented system covers custom bet creation, dynamic odds, data normalization, and trust-scored outcome verification, supporting a global network of miners and validators. Real-money wagering is planned for future phases, with the current beta supporting data contribution and validation tasks to power the Sparket ecosystem.",
         "categories": [
             "Prediction Market",
             "Sports Prediction"
@@ -1170,7 +1170,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Handshake",
         "github": [
             "https://github.com/Handshake58/HS58"
         ],
@@ -1192,7 +1192,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Babelbit",
         "github": [
             "https://github.com/babelbit/babelbit_subnet"
         ],
@@ -1212,7 +1212,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Bitsec",
         "github": [
             "https://github.com/Bitsec-AI/subnet"
         ],
@@ -1233,7 +1233,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Redteam",
         "github": [
             "https://github.com/RedTeamSubnet/RedTeam"
         ],
@@ -1254,7 +1254,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Ridges AI",
         "github": [
             "https://github.com/ridgesai/ridges"
         ],
@@ -1274,7 +1274,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Enigma",
         "github": [
             "https://github.com/qbittensor-labs/quantum"
         ],
@@ -1296,7 +1296,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Chutes",
         "github": [
             "https://github.com/rayonlabs/chutes-miner",
             "https://github.com/rayonlabs/chutes"
@@ -1319,7 +1319,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "TAO Private Network",
         "github": [
             "https://github.com/taofu-labs/tpn-subnet"
         ],
@@ -1339,7 +1339,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Tau coding agent",
         "github": [
             "https://github.com/unarbos/tau"
         ],
@@ -1359,7 +1359,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Harnyx",
         "github": [
             "https://github.com/harnyx/harnyx"
         ],
@@ -1379,7 +1379,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "NOVA",
         "github": [
             "https://github.com/metanova-labs/nova"
         ],
@@ -1399,7 +1399,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 69",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -1414,7 +1414,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "NexisGen",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos-test/70/v2.png",
@@ -1432,7 +1432,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Leadpoet",
         "github": [
             "https://github.com/Leadpoet/Leadpoet"
         ],
@@ -1453,7 +1453,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "StreetVision",
         "github": [
             "https://github.com/natixnetwork/streetvision-subnet/"
         ],
@@ -1475,7 +1475,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "MetaHash",
         "github": [
             "https://github.com/fx-integral/metahash"
         ],
@@ -1495,7 +1495,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Gittensor",
         "github": [
             "https://github.com/entrius/gittensor"
         ],
@@ -1515,7 +1515,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Hippius",
         "github": [
             "https://github.com/thenervelab/thebrain",
             "https://github.com/thenervelab/hippius-validator",
@@ -1539,7 +1539,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Byzantium",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -1555,7 +1555,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Liquidity",
         "github": [
             "https://github.com/creativebuilds/sn77"
         ],
@@ -1575,7 +1575,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Loosh",
         "github": [
             "https://github.com/Loosh-ai",
             "https://github.com/Loosh-ai/loosh-public-documentation"
@@ -1598,7 +1598,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "MVTRX",
         "github": [
             "https://github.com/taos-im/sn-79"
         ],
@@ -1618,7 +1618,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Dogelayer",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos-test/80/v2.svg",
@@ -1636,7 +1636,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "grail",
         "github": [
             "https://github.com/tplr-ai/grail"
         ],
@@ -1653,7 +1653,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "hermes",
         "letter": "",
-        "name": "",
+        "name": "Hermes",
         "github": [
             "https://github.com/SN-Hermes/hermes-subnet"
         ],
@@ -1674,7 +1674,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "CliqueAI",
         "github": [
             "https://github.com/toptensor/CliqueAI"
         ],
@@ -1695,7 +1695,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "ChipForge (Tatsu)",
         "github": [
             "https://github.com/TatsuProject/ChipForge_SN84",
             "https://github.com/TatsuProject/chipforge_eda_server"
@@ -1705,7 +1705,7 @@
         "description": "",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "ChipForge (SN84) introduces the first digital design subnet for decentralized hardware innovation. This subnet enables miners to compete in designing real silicon. Processor development is organized into on-chain challenges \u2014 spanning AI accelerators, cryptographic modules, mini-GPUs, and other critical components. Participants download specifications, leverage AI tools, and submit complete Verilog/SystemVerilog implementations. The highest-quality designs earn rewards while contributing to fully manufacturable chips.",
+        "summary": "ChipForge (SN84) introduces the first digital design subnet for decentralized hardware innovation. This subnet enables miners to compete in designing real silicon. Processor development is organized into on-chain challenges — spanning AI accelerators, cryptographic modules, mini-GPUs, and other critical components. Participants download specifications, leverage AI tools, and submit complete Verilog/SystemVerilog implementations. The highest-quality designs earn rewards while contributing to fully manufacturable chips.",
         "websites": [],
         "categories": [
             "Infrastructure",
@@ -1717,7 +1717,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "vidaio",
         "github": [
             "https://github.com/vidaio-subnet/vidaio-subnet"
         ],
@@ -1738,7 +1738,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 86",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -1753,7 +1753,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Luminar Network",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos-test/87/v3.png",
@@ -1772,7 +1772,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Investing",
         "github": [
             "https://github.com/mobiusfund/investing"
         ],
@@ -1792,7 +1792,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "InfiniteHash",
         "github": [
             "https://github.com/backend-developers-ltd/InfiniteHash"
         ],
@@ -1812,7 +1812,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 90",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -1827,7 +1827,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Bitstarter #1",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -1845,7 +1845,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "TensorClaw",
         "github": [
             "https://github.com/tensorclaw/tensorclaw"
         ],
@@ -1865,7 +1865,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Bitcast",
         "github": [
             "https://github.com/bitcast-network/bitcast"
         ],
@@ -1886,7 +1886,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "BITSOTA",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos-test/94/v3.png",
@@ -1904,7 +1904,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Actual Computer",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/95/v1.jpg",
@@ -1919,7 +1919,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "FLock OFF",
         "github": [
             "https://github.com/FLock-io/FLock-subnet"
         ],
@@ -1941,7 +1941,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Flamewire",
         "github": [
             "https://github.com/unitone-labs/FlameWire"
         ],
@@ -1962,7 +1962,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "ForeverMoney 九八",
         "github": [
             "https://github.com/orgs/SN98-ForeverMoney/repositories"
         ],
@@ -1983,7 +1983,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Problems",
         "github": [
             "https://github.com/subnet99/neza"
         ],
@@ -2004,7 +2004,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Platform Network",
         "github": [
             "https://github.com/CortexLM/platform",
             "https://github.com/PlatformNetwork"
@@ -2026,7 +2026,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 101",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -2041,7 +2041,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 102",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -2056,7 +2056,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Djinn",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos-test/103/v2.png",
@@ -2075,7 +2075,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 104",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -2090,7 +2090,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 105",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos-test/105/v2.jpg",
@@ -2108,7 +2108,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "VoidAI Liquidity Provisioning",
         "github": [],
         "categories": [
             "DeFi"
@@ -2126,7 +2126,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "KDN-1",
         "github": [
             "https://github.com/tigerinvests-com/sn107-alpha"
         ],
@@ -2146,7 +2146,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "TalkHead",
         "github": [
             "https://github.com/talkheadai/talkhead-subnet"
         ],
@@ -2167,7 +2167,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 109",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -2185,7 +2185,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Rich Kids of TAO",
         "github": [
             "https://github.com/Rich-Kids-of-TAO/rkt-subnet"
         ],
@@ -2202,7 +2202,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "oneoneone",
         "github": [
             "https://github.com/oneoneone-io/subnet-111"
         ],
@@ -2223,7 +2223,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "minotaur",
         "github": [
             "https://github.com/subnet112/minotaur_subnet"
         ],
@@ -2232,7 +2232,7 @@
         "description": "",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "minotaur is a Bittensor subnet focused on swap\u2011intent processing and execution optimization. It leverages a subnet\u2011native incentive mechanism to deliver better, cheaper, and faster trades for users.",
+        "summary": "minotaur is a Bittensor subnet focused on swap‑intent processing and execution optimization. It leverages a subnet‑native incentive mechanism to deliver better, cheaper, and faster trades for users.",
         "websites": [],
         "categories": [
             "DeFi",
@@ -2244,7 +2244,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "TensorUSD",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos-test/113/v3.png",
@@ -2262,7 +2262,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "SOMA",
         "github": [
             "https://github.com/Level114/level114-subnet"
         ],
@@ -2283,7 +2283,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 115",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos-test/115/v1.png",
@@ -2302,7 +2302,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "TaoLend",
         "github": [
             "https://github.com/xpenlab/taolend"
         ],
@@ -2322,7 +2322,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "BrainPlay",
         "github": [
             "https://github.com/shiftlayer-llc/brainplay-subnet"
         ],
@@ -2331,7 +2331,7 @@
         "description": "",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "Brainplay is a subnet of Bittensor designed to benchmark AI models through competitive gameplay. Instead of relying solely on abstract mathematical scores, this approach allows people to visually understand a model\u2019s performance by watching it play interesting and engaging games.",
+        "summary": "Brainplay is a subnet of Bittensor designed to benchmark AI models through competitive gameplay. Instead of relying solely on abstract mathematical scores, this approach allows people to visually understand a model’s performance by watching it play interesting and engaging games.",
         "websites": [],
         "subnet_id": 117
     },
@@ -2339,7 +2339,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "HODL - The ETF Subnet",
         "github": [
             "https://github.com/mobiusfund/etf"
         ],
@@ -2359,7 +2359,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 119",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -2378,7 +2378,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "affine",
         "github": [
             "https://github.com/AffineFoundation/affine"
         ],
@@ -2399,7 +2399,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "sundae_bar",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos-test/121/v2.png",
@@ -2418,7 +2418,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Bitrecs",
         "github": [
             "https://github.com/bitrecs/bitrecs-subnet"
         ],
@@ -2439,7 +2439,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "MANTIS",
         "github": [
             "https://github.com/Barbariandev/MANTIS"
         ],
@@ -2461,7 +2461,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Swarm",
         "github": [
             "https://github.com/swarm-subnet/swarm"
         ],
@@ -2483,7 +2483,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "8 Ball",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/125/v1.webp",
@@ -2498,7 +2498,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 126",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos-test/126/v1.jpg",
@@ -2517,7 +2517,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 127",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos-test/127/v1.png",
@@ -2536,7 +2536,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "ByteLeap",
         "github": [
             "https://github.com/byteleapai/byteleap-Miner",
             "https://github.com/byteleapai/byteleap-Validator"
